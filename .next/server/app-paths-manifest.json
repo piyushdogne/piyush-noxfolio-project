@@ -1,0 +1,17 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/index2/page": "app/index2/page.js",
+  "/indexonepage/page": "app/indexonepage/page.js",
+  "/page": "app/page.js",
+  "/index2onepage/page": "app/index2onepage/page.js",
+  "/projects-masonry/page": "app/projects-masonry/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/404/page": "app/404/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/blog-details/page": "app/blog-details/page.js",
+  "/project-details/page": "app/project-details/page.js",
+  "/services/page": "app/services/page.js"
+}
